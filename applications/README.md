@@ -40,3 +40,4 @@ variable it reads and nothing else.
 | Application | Language | What it does |
 | --- | --- | --- |
 | [worldline](worldline) | Python | Snapshot-branch competing plans, verify their artifacts, and replay only the winner |
+| [job-board-monitor](job-board-monitor) | Python | Scrape a job board with a cloud browser, dedupe postings in a sandbox, and render a daily markdown digest |
